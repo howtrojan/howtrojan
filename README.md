@@ -1,16 +1,31 @@
-### Hi there 👋
+Certamente! Aqui está o texto atualizado com as informações fornecidas:
 
-<!--
-**howtrojan/howtrojan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tecnologias em destaque:
 
-Here are some ideas to get you started:
+### Linguagens de Programação:
+- HTML #🌐
+- CSS #🎨
+- JavaScript #💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frameworks e Bibliotecas:
+- Bootstrap #🅱️
+- React #⚛️
+
+### Habilidades Adicionais:
+- Estudo e prática diária para aprimoramento contínuo #📚
+- Busca constante por novos conhecimentos e tecnologias #🔍
+
+## Objetivo Profissional:
+
+Meu foco é especializar-me no desenvolvimento Front-End, buscando não apenas a excelência nas habilidades técnicas, mas também a capacidade de criar experiências excepcionais para os usuários. Além disso, tenho planos de explorar o Back-End no futuro, visando tornar-me um desenvolvedor FullStack completo.
+
+## Projetos e Contribuições:
+
+No meu perfil do GitHub, você encontrará projetos relacionados ao meu aprendizado contínuo, bem como contribuições para a comunidade de desenvolvedores. Fique à vontade para explorar meus repositórios e compartilhar feedback! #🚀
+
+## Contato:
+
+Estou aberto a desafios e oportunidades que possam contribuir para o meu crescimento profissional. Se você tiver alguma proposta interessante, entre em contato! Vamos construir algo incrível juntos.
+
+- 📧 Email: [andre.braga.asb@gmail.com](mailto:andre.braga.asb@gmail.com) #📬
+- LinkedIn: [André Santos Braga](https://www.linkedin.com/in/andresantosbraga/) #🔗
