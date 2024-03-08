@@ -10,6 +10,7 @@ Bem vindo ao meu Perfil!
 ### Frameworks e Bibliotecas:
 - Bootstrap #🅱️
 - React #⚛️
+- Flutter
 
 ### Habilidades Adicionais:
 - Estudo e prática diária para aprimoramento contínuo #📚
@@ -17,7 +18,7 @@ Bem vindo ao meu Perfil!
 
 ## Objetivo Profissional:
 
-Meu foco é especializar-me no desenvolvimento Front-End, buscando não apenas a excelência nas habilidades técnicas, mas também a capacidade de criar experiências excepcionais para os usuários. Além disso, tenho planos de explorar o Back-End no futuro, visando tornar-me um desenvolvedor FullStack completo.
+Meu foco é especializar-me no desenvolvimento Front-End e Mobile, buscando não apenas a excelência nas habilidades técnicas, mas também a capacidade de criar experiências excepcionais para os usuários. Além disso, tenho planos de explorar o Back-End no futuro, visando tornar-me um desenvolvedor FullStack completo.
 
 ## Projetos e Contribuições:
 
