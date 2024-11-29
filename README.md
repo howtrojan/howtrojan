@@ -2,13 +2,13 @@ Bem vindo ao meu Perfil!
 
 ## Tecnologias em destaque:
 
-### Linguagens:
+### Tecnologias:
 - HTML #🌐
 - CSS #🎨
 - JavaScript #💻
 - Python
-
-### Frameworks e Bibliotecas:
+- NodeJS
+- MongoDB
 - Bootstrap #🅱️
 - React #⚛️
 - Flutter
